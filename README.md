@@ -38,17 +38,15 @@ We have finally configured osTicket from nothing in the previous lab. Now this o
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+The next step is creating a Department. Click on "Departments"->"Add New Department" and the name for the new Department is "System Administrators" this is where the "Supre Admin" will be designated.
+  
+<img width="1280" alt="Screen Shot 2023-08-08 at 7 33 31 AM" src="https://github.com/LuismTejada/Post-install-config/assets/140201562/9bec5028-8de0-47ac-9e6e-f7a1e7abf487">
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After making a new department we will set up a new team. Teams allow you to pull agents from different departments. Teams allow you to pull agents from different departments and organize them to handle a specific issue or user via Help Topic or Ticket Filter. You go to Agents-> Teams. A Level I Support team has already been made by default. After clicking on "Add New Team" name it "Level II Support".
+  
+<img width="1280" alt="Screen Shot 2023-08-08 at 7 51 16 AM" src="https://github.com/LuismTejada/Post-install-config/assets/140201562/20e1b836-6612-4a3d-b773-7c7bc39df268">
+
+  
 </p>
 <br />
